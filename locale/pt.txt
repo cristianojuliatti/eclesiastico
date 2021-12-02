@@ -1,0 +1,41 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Tour Visitação
+
+## Media
+
+### Title
+panorama_6827AE70_7C2B_65DD_41CB_FB6242242CE3.label = Corredor 4
+panorama_68E13FDA_7C29_62CC_41D2_504D6258B27C.label = Salão Sacramental 1
+panorama_6ED7F42B_7CD9_254C_41CB_92CDA4B805CD.label = Fundos 3
+panorama_75F1D69D_7C5B_2544_4191_9DBBDCAC5CE4.label = Entrada 2
+panorama_75F23C3B_7C58_E54C_41C1_F8299BCAF1FB.label = Entrada
+panorama_75F243BD_7C59_2344_41CB_E2CF1D402CA0.label = Corredor 8
+panorama_75F28275_7C59_1DC4_41D6_A3E8D7F22637.label = Corredor 3
+panorama_75F2DE83_7C59_2543_41D5_5D24BE625F38.label = Corredor 4
+panorama_75F38A07_7C59_ED43_41DA_5ABD323D8720.label = Corredor 1
+panorama_75F45167_7C59_1FC4_41DD_05C0CB695C1C.label = Salão Sacramental 4
+panorama_75F4D059_7C59_3DCF_41D2_9ED6EEEBDB50.label = Salão Cultural 2
+panorama_75F4F3D5_7C59_62C4_41D4_6D3F8934CD05.label = Salão Sacramental 1
+panorama_75F51066_7C59_1DC4_41B5_4D9122E5234C.label = Sala 3 e 4
+panorama_75F512D4_7C59_22C4_41D6_C912C9479FBF.label = Quadra 4
+panorama_75F645C1_7C5B_273C_41D2_D553395C90BA.label = Fundos 3
+panorama_75F6B1A4_7C59_3F44_41C0_276E6224E390.label = Pia Batismal 3
+panorama_75F785C1_7C5B_273C_41DE_502A0DA358E2.label = Lateral 1
+
+## Hotspot
+
+### URL
+FramePanoramaOverlay_6E445800_7C3B_2D3C_41DC_3982DAD8C724.url = //www.youtube.com/embed/lVHm9iSoJZU
+FramePanoramaOverlay_6F6DFB7A_7C2B_E3CD_41DC_D18D685122FB.url = //www.youtube.com/embed/a0hEMXwcsWc
+FramePanoramaOverlay_6F9AEF07_7C29_6344_41DC_50976B87D3A7.url = //www.youtube.com/embed/Y0be13Dhc-U
+FramePanoramaOverlay_6F9D839A_7C38_E34C_41D1_4106D78C4FA3.url = //www.youtube.com/embed/3ioum6BgorE
+FramePanoramaOverlay_6FAB17CA_7C29_22CC_41DB_36137D60E498.url = //www.youtube.com/embed/Q5uyI9rNkTk
+FramePanoramaOverlay_6FDD655E_7C39_67C4_4170_1A7488B6211A.url = //www.youtube.com/embed/aW4FAffRjGk
+FramePanoramaOverlay_6FFF6F27_7C37_E344_4181_5D19BFE4F20E.url = //www.youtube.com/embed/pe1li6lZxfw
+overlay_6E6999C7_7CEF_2EC3_41C2_C6ACEC8A51D2.url = //www.youtube.com/embed/929BcuCi1ak
